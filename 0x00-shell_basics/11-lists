@@ -2,5 +2,3 @@
 ls -la
 ls ../ -la
 ls /boot -la
-
-
